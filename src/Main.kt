@@ -2,6 +2,7 @@ fun main() {
     println("Hello World")
     // String Interpolation
     val myAge = 10
+    // String Interpolation
     println("My age is ${myAge}")
     /*
     Kotlin is used for:
